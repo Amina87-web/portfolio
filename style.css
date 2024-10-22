@@ -1,0 +1,36 @@
+
+.container-fluid{
+    color: crimson;
+}
+.btn{
+    background-color: transparent;
+    border: solid 1px black;
+    border-radius: 6px;
+}
+.text-center{
+    padding: 20px 20px 20px 20px;
+}
+button{
+    background-color: blueviolet;
+    color: rgba(228, 109, 18, 0.679);
+}
+.card{
+    margin: 25px;
+}
+
+#y3{
+    text-align: center;
+}
+.name{
+    color: #17b93f;
+}
+.main{
+    background-color: rgb(240, 226, 236);
+}
+h1{
+    text-align: center;
+}
+.hello{
+    text-align: center;
+   font-size: large;
+}
